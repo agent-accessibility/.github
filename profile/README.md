@@ -32,4 +32,4 @@ If your agents can't see, reach, or navigate your world, they're not really agen
 - [Issues](https://github.com/agent-accessibility/KMCP/issues) for bugs and feature requests
 - PRs welcome. See [CONTRIBUTING.md](https://github.com/agent-accessibility/KMCP/blob/main/CONTRIBUTING.md)
 
-Built by [@hashwnath](https://github.com/hashwnath)
+Built by [@hashwnath](https://github.com/hashwnath) · [LinkedIn](https://www.linkedin.com/in/sutharapuhashwanth/)
